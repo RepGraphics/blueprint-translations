@@ -9,8 +9,7 @@ We welcome contributions to help expand the language support for the Translation
 ### How to Submit a Translation
 1. **Fork the Repository**: Click the "Fork" button on the top right of this repository to create your own copy.
 2. **Add Your Translation**:
-   - Navigate to the `translations/` directory.
-   - If your language is not yet available, create a new folder following the [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (e.g., `fr` for French, `de` for German).
+   - If your language is not yet available, create a new file following the [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (e.g., `fr` for French, `de` for German).
    - Add or edit the JSON translation file following the format of existing translations.
 3. **Submit a Pull Request**: Once you've added or updated a translation, create a pull request (PR) with a short description of the changes.
 
