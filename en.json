@@ -1,0 +1,13 @@
+{
+    "general": {
+        "welcome": "Welcome",
+        "dashboard": "Dashboard",
+        "store": "Store",
+        "status": "Status",
+        "discord": "Discord",
+    },
+    "errors": {
+        "not_found": "Page not found",
+        "unauthorized": "You are not authorized to view this page"
+    }
+}
