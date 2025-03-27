@@ -19,17 +19,11 @@ If you are not comfortable using GitHub, you can submit translation files via:
 - Emailing the files to [your contact email]
 
 ## Translation File Format
-Example of translation file format (example for English `en.json`):
+Example of translation file format (example for English `example-en.json`):
 ```json
 {
-    "general": {
         "welcome": "Welcome",
         "dashboard": "Dashboard"
-    },
-    "errors": {
-        "not_found": "Page not found",
-        "unauthorized": "You are not authorized to view this page"
-    }
 }
 ```
 
