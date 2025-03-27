@@ -1,6 +1,7 @@
 # blueprint-translations
 
 Translation files for the Translations Addon for Pterodactyl Panel (Utilizes Blueprint Framework).
+Initial Release Translations are done using Google Translate and AI, so they may be inaccurate!
 
 ## Contributing Translations
 
