@@ -47,9 +47,6 @@
     "Create": "Создать",
     "No API keys exist for this account.": "Для этого аккаунта не созданы API-ключи.",
 
-    "Start": "Запустить",
-    "Stop": "Остановить",
-    "Restart": "Перезапустить",
     "Console": "Консоль",
     "Files": "Файлы",
     "File Manager": "Файловый менеджер",
