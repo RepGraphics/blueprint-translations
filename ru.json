@@ -115,7 +115,7 @@
     "New User": "Новый пользователь",
 
     "There are no schedules configured for this server.": "Для этого сервера не настроены расписания.",
-    "Create Schedule": "Создать расписание",
+    "Create schedule": "Создать расписание",
 
     "Create Directory": "Создать каталог",
     "New File": "Новый файл",
@@ -169,5 +169,14 @@
     "Disable": "Отключить",
     "Logged in": "Вход выполнен",
     "auth:success": "Аутентификация успешна",
-    "auth:failed": "Ошибка аутентификации"
+    "auth:failed": "Ошибка аутентификации",
+
+    "New Database": "Новая база данных",
+    "It looks like you have no databases.": "Похоже, у вас нет баз данных.",
+    "Create new database": "Создать новую базу данных",
+    "Database Name": "Имя базы данных",
+    "A descriptive name for your database instance.": "Описание для вашей базы данных.",
+    "Connections From": "Подключения с",
+    "Where connections should be allowed from. Leave blank to allow connections from anywhere.": "Откуда должны разрешаться подключения. Оставьте пустым, чтобы разрешить подключения с любого места.",
+    "Create Database": "Создать базу данных"
 }

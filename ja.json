@@ -115,7 +115,7 @@
     "New User": "新規ユーザー",
 
     "There are no schedules configured for this server.": "このサーバーにはスケジュールが設定されていません。",
-    "Create Schedule": "スケジュールを作成",
+    "Create schedule": "スケジュールを作成",
 
     "Memory usage is high": "メモリ使用率が高い",
     "CPU usage is high": "CPU使用率が高い",
@@ -150,5 +150,13 @@
     "Disable": "無効にする",
     "Logged in": "ログインしました",
     "auth:success": "認証成功",
-    "auth:failed": "認証失敗"
+    "auth:failed": "認証失敗",
+    "New Database": "新しいデータベース",
+    "It looks like you have no databases.": "データベースがないようです。",
+    "Create new database": "新しいデータベースを作成",
+    "Database Name": "データベース名",
+    "A descriptive name for your database instance.": "データベースインスタンスの説明的な名前。",
+    "Connections From": "接続元",
+    "Where connections should be allowed from. Leave blank to allow connections from anywhere.": "接続を許可する場所。どこからでも接続を許可するには空白のままにしてください。",
+    "Create Database": "データベースを作成"
 }

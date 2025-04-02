@@ -115,7 +115,7 @@
     "New User": "مستخدم جديد",
 
     "There are no schedules configured for this server.": "لا توجد جداول مكونة لهذا الخادم.",
-    "Create Schedule": "إنشاء جدول",
+    "Create schedule": "إنشاء جدول",
 
     "Create Directory": "إنشاء دليل",
     "New File": "ملف جديد",
@@ -169,5 +169,13 @@
     "Disable": "تعطيل",
     "Logged in": "تسجيل الدخول",
     "auth:success": "نجاح المصادقة",
-    "auth:failed": "فشل المصادقة"
+    "auth:failed": "فشل المصادقة",
+    "New Database": "قاعدة بيانات جديدة",
+    "It looks like you have no databases.": "يبدو أنه ليس لديك قواعد بيانات.",
+    "Create new database": "إنشاء قاعدة بيانات جديدة",
+    "Database Name": "اسم قاعدة البيانات",
+    "A descriptive name for your database instance.": "اسم وصفي لمثيل قاعدة البيانات الخاصة بك.",
+    "Connections From": "الاتصالات من",
+    "Where connections should be allowed from. Leave blank to allow connections from anywhere.": "من أين يجب السماح بالاتصالات. اتركه فارغًا للسماح بالاتصالات من أي مكان.",
+    "Create Database": "إنشاء قاعدة بيانات"
 }   

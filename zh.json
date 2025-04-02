@@ -115,7 +115,7 @@
     "New User": "新用户",
 
     "There are no schedules configured for this server.": "此服务器未配置任何计划任务。",
-    "Create Schedule": "创建计划任务",
+    "Create schedule": "创建计划任务",
 
     "Create Directory": "创建目录",
     "New File": "新文件",
@@ -169,5 +169,14 @@
     "Disable": "禁用",
     "Logged in": "已登录",
     "auth:success": "认证成功",
-    "auth:failed": "认证失败"
+    "auth:failed": "认证失败",
+
+    "New Database": "新数据库",
+    "It looks like you have no databases.": "看起来您没有任何数据库。",
+    "Create new database": "创建新数据库",
+    "Database Name": "数据库名称",
+    "A descriptive name for your database instance.": "为您的数据库实例提供描述性名称。",
+    "Connections From": "来自的连接",
+    "Where connections should be allowed from. Leave blank to allow connections from anywhere.": "允许来自哪些地方的连接。留空以允许来自任何地方的连接。",
+    "Create Database": "创建数据库"
 }

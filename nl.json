@@ -115,7 +115,7 @@
     "New User": "Nieuwe Gebruiker",
 
     "There are no schedules configured for this server.": "Er zijn geen schema's geconfigureerd voor deze server.",
-    "Create Schedule": "Schema Aanmaken",
+    "Create schedule": "Schema Aanmaken",
 
     "Create Directory": "Directory Aanmaken",
     "New File": "Nieuw Bestand",
@@ -169,5 +169,13 @@
     "Disable": "Uitschakelen",
     "Logged in": "Ingelogd",
     "auth:success": "Authenticatie geslaagd",
-    "auth:failed": "Authenticatie mislukt"
+    "auth:failed": "Authenticatie mislukt",
+    "New Database": "Nieuwe Database",
+    "It looks like you have no databases.": "Het lijkt erop dat je geen databases hebt.",
+    "Create new database": "Nieuwe database maken",
+    "Database Name": "Databasenaam",
+    "A descriptive name for your database instance.": "Een beschrijvende naam voor je database-instantie.",
+    "Connections From": "Verbindingen van",
+    "Where connections should be allowed from. Leave blank to allow connections from anywhere.": "Vanwaar verbindingen toegestaan moeten worden. Laat leeg om verbindingen van overal toe te staan.",
+    "Create Database": "Database maken"
 }

@@ -142,5 +142,14 @@
     "Disable": "Disabwe",
     "Logged in": "Wogged in",
     "auth:success": "Authowization successfuw uwu",
-    "auth:failed": "Authowization faiwed~"
+    "auth:failed": "Authowization faiwed~",
+
+    "New Database": "Nyew Dawtabase~",
+    "It looks like you have no databases.": "I-it wooks wike you have nyo dawabases~",
+    "Create new database": "Cweate nyew dawabase~",
+    "Database Name": "Dawtabase Nyame",
+    "A descriptive name for your database instance.": "A descwiptive nyame fow youw dawabase instawwation~",
+    "Connections From": "Connewctions Fwom",
+    "Where connections should be allowed from. Leave blank to allow connections from anywhere.": "Whewe connewctions shouwd be awwowed fwom. Weave bwank to awwow connewctions fwom anywhewe~",
+    "Create Database": "Cweate Dawtabase~"
 }

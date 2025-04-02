@@ -115,7 +115,7 @@
     "New User": "Novo Usuário",
 
     "There are no schedules configured for this server.": "Não há agendamentos configurados para este servidor.",
-    "Create Schedule": "Criar Agendamento",
+    "Create schedule": "Criar Agendamento",
 
     "Create Directory": "Criar Diretório",
     "New File": "Novo Arquivo",
@@ -169,5 +169,14 @@
     "Disable": "Desativar",
     "Logged in": "Conectado",
     "auth:success": "Autenticação bem-sucedida",
-    "auth:failed": "Falha na autenticação"
+    "auth:failed": "Falha na autenticação",
+
+    "New Database": "Novo Banco de Dados",
+    "It looks like you have no databases.": "Parece que você não tem bancos de dados.",
+    "Create new database": "Criar novo banco de dados",
+    "Database Name": "Nome do Banco de Dados",
+    "A descriptive name for your database instance.": "Um nome descritivo para a sua instância de banco de dados.",
+    "Connections From": "Conexões de",
+    "Where connections should be allowed from. Leave blank to allow connections from anywhere.": "De onde as conexões devem ser permitidas. Deixe em branco para permitir conexões de qualquer lugar.",
+    "Create Database": "Criar Banco de Dados"
 }

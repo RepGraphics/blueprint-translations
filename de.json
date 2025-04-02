@@ -115,7 +115,7 @@
     "New User": "Neuer Benutzer",
 
     "There are no schedules configured for this server.": "Für diesen Server sind keine Zeitpläne konfiguriert.",
-    "Create Schedule": "Zeitplan erstellen",
+    "Create schedule": "Zeitplan erstellen",
 
     "Create Directory": "Verzeichnis erstellen",
     "New File": "Neue Datei",
@@ -169,5 +169,13 @@
     "Disable": "Deaktivieren",
     "Logged in": "Eingeloggt",
     "auth:success": "Authentifizierung erfolgreich",
-    "auth:failed": "Authentifizierung fehlgeschlagen"
+    "auth:failed": "Authentifizierung fehlgeschlagen",
+    "New Database": "Neue Datenbank",
+    "It looks like you have no databases.": "Es scheint, dass Sie keine Datenbanken haben.",
+    "Create new database": "Neue Datenbank erstellen",
+    "Database Name": "Datenbankname",
+    "A descriptive name for your database instance.": "Ein beschreibender Name für Ihre Datenbankinstanz.",
+    "Connections From": "Verbindungen von",
+    "Where connections should be allowed from. Leave blank to allow connections from anywhere.": "Von wo aus Verbindungen erlaubt sein sollen. Lassen Sie es leer, um Verbindungen von überall zu erlauben.",
+    "Create Database": "Datenbank erstellen"
 }

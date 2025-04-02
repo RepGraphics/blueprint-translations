@@ -115,7 +115,7 @@
     "New User": "Nouvel utilisateur",
 
     "There are no schedules configured for this server.": "Aucun planning n'est configuré pour ce serveur.",
-    "Create Schedule": "Créer un planning",
+    "Create schedule": "Créer un planning",
 
     "Create Directory": "Créer un répertoire",
     "New File": "Nouveau fichier",
@@ -169,5 +169,13 @@
     "Disable": "Désactiver",
     "Logged in": "Connecté",
     "auth:success": "Authentification réussie",
-    "auth:failed": "Échec de l'authentification"
+    "auth:failed": "Échec de l'authentification",
+    "New Database": "NOUVELLE BASE DE DONNÉES",
+    "It looks like you have no databases.": "Il semble que vous n'ayez aucune base de données.",
+    "Create new database": "Créer une nouvelle base de données",
+    "Database Name": "Nom de la base de données",
+    "A descriptive name for your database instance.": "Un nom descriptif pour votre instance de base de données.",
+    "Connections From": "Connexions de",
+    "Where connections should be allowed from. Leave blank to allow connections from anywhere.": "D'où les connexions doivent être autorisées. Laissez vide pour autoriser les connexions de n'importe où.",
+    "Create Database": "CRÉER UNE BASE DE DONNÉES"
 }

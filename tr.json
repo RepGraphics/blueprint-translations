@@ -115,7 +115,7 @@
     "New User": "Yeni Kullanıcı",
 
     "There are no schedules configured for this server.": "Bu sunucu için herhangi bir program yapılandırılmamıştır.",
-    "Create Schedule": "Program Oluştur",
+    "Create schedule": "Program Oluştur",
 
     "Create Directory": "Dizin Oluştur",
     "New File": "Yeni Dosya",
@@ -169,5 +169,14 @@
     "Disable": "Devre Dışı Bırak",
     "Logged in": "Giriş yapıldı",
     "auth:success": "Kimlik doğrulama başarılı",
-    "auth:failed": "Kimlik doğrulama başarısız"
+    "auth:failed": "Kimlik doğrulama başarısız",
+
+    "New Database": "Yeni Veritabanı",
+    "It looks like you have no databases.": "Görünüşe göre veritabanınız yok.",
+    "Create new database": "Yeni veritabanı oluştur",
+    "Database Name": "Veritabanı Adı",
+    "A descriptive name for your database instance.": "Veritabanı örneğiniz için açıklayıcı bir isim.",
+    "Connections From": "Bağlantılar Şuradan",
+    "Where connections should be allowed from. Leave blank to allow connections from anywhere.": "Bağlantıların hangi yerlerden yapılmasına izin verileceği. Her yerden bağlantıya izin vermek için boş bırakın.",
+    "Create Database": "Veritabanı Oluştur"
 }

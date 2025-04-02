@@ -115,7 +115,7 @@
     "New User": "新用戶",
 
     "There are no schedules configured for this server.": "此伺服器尚未配置任何排程。",
-    "Create Schedule": "新建排成",
+    "Create schedule": "新建排成",
 
     "Create Directory": "建立目錄",
     "New File": "新增資料",
@@ -169,5 +169,14 @@
     "Disable": "停用",
     "Logged in": "已登入",
     "auth:success": "認證成功",
-    "auth:failed": "認證失敗"
+    "auth:failed": "認證失敗",
+
+    "New Database": "新資料庫",
+    "It looks like you have no databases.": "看起來您沒有任何資料庫。",
+    "Create new database": "建立新資料庫",
+    "Database Name": "資料庫名稱",
+    "A descriptive name for your database instance.": "為您的資料庫實例提供描述性名稱。",
+    "Connections From": "來自的連接",
+    "Where connections should be allowed from. Leave blank to allow connections from anywhere.": "允許來自哪些地方的連接。留空以允許來自任何地方的連接。",
+    "Create Database": "建立資料庫"
 }
