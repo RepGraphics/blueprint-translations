@@ -16,8 +16,7 @@ We welcome contributions to help expand the language support for the Translation
 
 ### Alternative Submission Method
 If you are not comfortable using GitHub, you can submit translation files via:
-- Our Discord server (if applicable)
-- Emailing the files to [your contact email]
+- Our Discord server
 
 ## Translation File Format
 Example of translation file format (example for English `example-en.json`):
