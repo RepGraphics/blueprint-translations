@@ -139,5 +139,35 @@
     "Memory usage is high": "Bellek kullanımı yüksek",
     "CPU usage is high": "CPU kullanımı yüksek",
     "Disk usage is high": "Disk kullanımı yüksek",
-    "Upgrade": "Yükselt"
+    "Upgrade": "Yükselt",
+
+    "home": "Ana Sayfa",
+    "container": "Konteyner",
+    "Rename": "Yeniden Adlandır",
+    "Move": "Taşı",
+    "Permissions": "İzinler",
+    "Archive": "Arşivle",
+    "Download": "İndir",
+    "Delete": "Sil",
+    "Copy": "Kopyala",
+    "Databases cannot be created for this server.": "Bu sunucu için veritabanları oluşturulamaz.",
+
+    "Restarted the server.": "Sunucu yeniden başlatıldı.",
+    "Stopped the server.": "Sunucu durduruldu.",
+    "Started the server.": "Sunucu başlatıldı.",
+    "Viewed the contents of": "İçeriği görüntülendi",
+    "View Banned Players": "Yasaklanan Oyuncuları Görüntüle",
+    "Create File": "Dosya Oluştur",
+    "Name": "İsim",
+    "Upload": "Yükle",
+
+    "Enable Two-Step Verification": "İki Aşamalı Doğrulamayı Etkinleştir",
+    "Help protect your account from unauthorized access. You'll be prompted for a verification code each time you sign in.": "Hesabınızı yetkisiz erişime karşı koruyun. Giriş yaptığınızda doğrulama kodu istenecektir.",
+    "Scan the QR code above using the two-step authentication app of your choice. Then, enter the 6-digit code generated into the field below.": "Tercih ettiğiniz iki aşamalı doğrulama uygulamasıyla yukarıdaki QR kodunu tarayın. Ardından oluşturulan 6 haneli kodu aşağıdaki alana girin.",
+    "Account Password": "Hesap Şifresi",
+    "Enable": "Etkinleştir",
+    "Disable": "Devre Dışı Bırak",
+    "Logged in": "Giriş yapıldı",
+    "auth:success": "Kimlik doğrulama başarılı",
+    "auth:failed": "Kimlik doğrulama başarısız"
 }

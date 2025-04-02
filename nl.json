@@ -139,5 +139,35 @@
     "Memory usage is high": "Geheugengebruik is hoog",
     "CPU usage is high": "CPU-gebruik is hoog",
     "Disk usage is high": "Schijfgebruik is hoog",
-    "Upgrade": "Upgrade"
+    "Upgrade": "Upgrade",
+
+    "home": "Home",
+    "container": "Container",
+    "Rename": "Hernoemen",
+    "Move": "Verplaatsen",
+    "Permissions": "Machtigingen",
+    "Archive": "Archiveren",
+    "Download": "Downloaden",
+    "Delete": "Verwijderen",
+    "Copy": "Kopiëren",
+    "Databases cannot be created for this server.": "Databases kunnen niet worden aangemaakt voor deze server.",
+
+    "Restarted the server.": "Server opnieuw opgestart.",
+    "Stopped the server.": "Server gestopt.",
+    "Started the server.": "Server gestart.",
+    "Viewed the contents of": "Inhoud bekeken van",
+    "View Banned Players": "Verbannen spelers bekijken",
+    "Create File": "Bestand maken",
+    "Name": "Naam",
+    "Upload": "Uploaden",
+
+    "Enable Two-Step Verification": "Twee-staps verificatie inschakelen",
+    "Help protect your account from unauthorized access. You'll be prompted for a verification code each time you sign in.": "Bescherm je account tegen ongeautoriseerde toegang. Je wordt gevraagd om een verificatiecode in te voeren telkens wanneer je inlogt.",
+    "Scan the QR code above using the two-step authentication app of your choice. Then, enter the 6-digit code generated into the field below.": "Scan de bovenstaande QR-code met een tweestapsverificatie-app naar keuze. Voer vervolgens de gegenereerde 6-cijferige code in het onderstaande veld in.",
+    "Account Password": "Accountwachtwoord",
+    "Enable": "Inschakelen",
+    "Disable": "Uitschakelen",
+    "Logged in": "Ingelogd",
+    "auth:success": "Authenticatie geslaagd",
+    "auth:failed": "Authenticatie mislukt"
 }

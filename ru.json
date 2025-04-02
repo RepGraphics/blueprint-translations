@@ -139,5 +139,35 @@
     "Memory usage is high": "Высокое использование памяти",
     "CPU usage is high": "Высокая загрузка CPU",
     "Disk usage is high": "Высокая загрузка диска",
-    "Upgrade": "Обновить"
+    "Upgrade": "Обновить",
+
+    "home": "Главная",
+    "container": "Контейнер",
+    "Rename": "Переименовать",
+    "Move": "Переместить",
+    "Permissions": "Разрешения",
+    "Archive": "Архивировать",
+    "Download": "Скачать",
+    "Delete": "Удалить",
+    "Copy": "Копировать",
+    "Databases cannot be created for this server.": "Невозможно создать базы данных для этого сервера.",
+
+    "Restarted the server.": "Сервер перезапущен.",
+    "Stopped the server.": "Сервер остановлен.",
+    "Started the server.": "Сервер запущен.",
+    "Viewed the contents of": "Просмотрено содержимое",
+    "View Banned Players": "Просмотр заблокированных игроков",
+    "Create File": "Создать файл",
+    "Name": "Имя",
+    "Upload": "Загрузить",
+
+    "Enable Two-Step Verification": "Включить двухфакторную аутентификацию",
+    "Help protect your account from unauthorized access. You'll be prompted for a verification code each time you sign in.": "Помогите защитить свою учетную запись от несанкционированного доступа. Вам будет запрашиваться код подтверждения при каждом входе в систему.",
+    "Scan the QR code above using the two-step authentication app of your choice. Then, enter the 6-digit code generated into the field below.": "Отсканируйте QR-код выше с помощью приложения двухфакторной аутентификации на ваш выбор. Затем введите сгенерированный 6-значный код в поле ниже.",
+    "Account Password": "Пароль учетной записи",
+    "Enable": "Включить",
+    "Disable": "Отключить",
+    "Logged in": "Вход выполнен",
+    "auth:success": "Аутентификация успешна",
+    "auth:failed": "Ошибка аутентификации"
 }

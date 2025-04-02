@@ -139,5 +139,35 @@
     "Memory usage is high": "記憶體使用量已達80%",
     "CPU usage is high": "CPU使用量已達高峰",
     "Disk usage is high": "硬碟使用量將近滿載",
-    "Upgrade": "升級"
+    "Upgrade": "升級",
+
+    "home": "首頁",
+    "container": "容器",
+    "Rename": "重新命名",
+    "Move": "移動",
+    "Permissions": "權限",
+    "Archive": "檔案",
+    "Download": "下載",
+    "Delete": "刪除",
+    "Copy": "複製",
+    "Databases cannot be created for this server.": "無法為此伺服器創建資料庫。",
+
+    "Restarted the server.": "已重新啟動伺服器。",
+    "Stopped the server.": "已停止伺服器。",
+    "Started the server.": "已啟動伺服器。",
+    "Viewed the contents of": "檢視內容",
+    "View Banned Players": "檢視被禁玩家",
+    "Create File": "創建檔案",
+    "Name": "名稱",
+    "Upload": "上傳",
+
+    "Enable Two-Step Verification": "啟用雙重驗證",
+    "Help protect your account from unauthorized access. You'll be prompted for a verification code each time you sign in.": "幫助保護您的帳戶免受未經授權的訪問。每次登入時，您將被要求提供驗證碼。",
+    "Scan the QR code above using the two-step authentication app of your choice. Then, enter the 6-digit code generated into the field below.": "使用您選擇的雙重認證應用程式掃描上方的QR碼，然後輸入生成的六位數字碼到下面的欄位。",
+    "Account Password": "帳戶密碼",
+    "Enable": "啟用",
+    "Disable": "停用",
+    "Logged in": "已登入",
+    "auth:success": "認證成功",
+    "auth:failed": "認證失敗"
 }

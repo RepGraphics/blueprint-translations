@@ -112,5 +112,35 @@
     "Backups cannot be created for this server because the backup limit is set to 0.": "OwO sowwy! No backyups awwowed!~",
     "Backup Limit": "Backyup Wimit~",
     "It looks like you don't have any subusers.": "OwO nyo sub-usyews hewe!~",
-    "New User": "Nyew UwU Usyew~"
+    "New User": "Nyew UwU Usyew~",
+
+    "home": "H-Home",
+    "container": "C-Containew",
+    "Rename": "Wewename",
+    "Move": "Mowe",
+    "Permissions": "Pe-wissions",
+    "Archive": "Awwchive",
+    "Download": "D-Download",
+    "Delete": "Dewete",
+    "Copy": "Copy-nyan",
+    "Databases cannot be created for this server.": "D-databases cannyot be cweated fow this sewvew~",
+
+    "Restarted the server.": "Wewestawted the sewvew~",
+    "Stopped the server.": "Stwopped the sewvew~",
+    "Started the server.": "Stawted the sewvew~",
+    "Viewed the contents of": "Viewewd the contents uwu",
+    "View Banned Players": "View Banned Pwayews",
+    "Create File": "Cweate Fiwe",
+    "Name": "Nyame",
+    "Upload": "Uppwload",
+
+    "Enable Two-Step Verification": "Enabwe Two-Step Ve-wification",
+    "Help protect your account from unauthorized access. You'll be prompted for a verification code each time you sign in.": "Hewp pwotect youw account fwom unautho-wized access~ You'ww be pwompted fow a vewification code each time you sign in, nya~",
+    "Scan the QR code above using the two-step authentication app of your choice. Then, enter the 6-digit code generated into the field below.": "Scan the Q-R code above using the two-step authentication app of youw choice~ Then, ente-w the 6-digit code genewated into the fiewd bewow~",
+    "Account Password": "Account Pwassword",
+    "Enable": "Enabwe",
+    "Disable": "Disabwe",
+    "Logged in": "Wogged in",
+    "auth:success": "Authowization successfuw uwu",
+    "auth:failed": "Authowization faiwed~"
 }

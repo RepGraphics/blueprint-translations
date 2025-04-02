@@ -139,5 +139,35 @@
     "Memory usage is high": "استخدام الذاكرة مرتفع",
     "CPU usage is high": "استخدام المعالج مرتفع",
     "Disk usage is high": "استخدام القرص مرتفع",
-    "Upgrade": "ترقية"
-}
+    "Upgrade": "ترقية",
+
+    "home": "الرئيسية",
+    "container": "حاوية",
+    "Rename": "إعادة تسمية",
+    "Move": "نقل",
+    "Permissions": "الأذونات",
+    "Archive": "أرشفة",
+    "Download": "تنزيل",
+    "Delete": "حذف",
+    "Copy": "نسخ",
+    "Databases cannot be created for this server.": "لا يمكن إنشاء قواعد بيانات لهذا الخادم.",
+
+    "Restarted the server.": "تم إعادة تشغيل الخادم.",
+    "Stopped the server.": "تم إيقاف تشغيل الخادم.",
+    "Started the server.": "تم تشغيل الخادم.",
+    "Viewed the contents of": "عرض محتويات",
+    "View Banned Players": "عرض اللاعبين المحظورين",
+    "Create File": "إنشاء ملف",
+    "Name": "الاسم",
+    "Upload": "رفع",
+
+    "Enable Two-Step Verification": "تمكين التحقق الثنائي",
+    "Help protect your account from unauthorized access. You'll be prompted for a verification code each time you sign in.": "ساعد في حماية حسابك من الوصول غير المصرح به. سيتم مطالبتك برمز التحقق في كل مرة تقوم فيها بتسجيل الدخول.",
+    "Scan the QR code above using the two-step authentication app of your choice. Then, enter the 6-digit code generated into the field below.": "امسح رمز الاستجابة السريعة أعلاه باستخدام تطبيق التحقق الثنائي الذي تختاره. ثم، أدخل الرمز المكون من 6 أرقام الذي تم إنشاؤه في الحقل أدناه.",
+    "Account Password": "كلمة مرور الحساب",
+    "Enable": "تمكين",
+    "Disable": "تعطيل",
+    "Logged in": "تسجيل الدخول",
+    "auth:success": "نجاح المصادقة",
+    "auth:failed": "فشل المصادقة"
+}   

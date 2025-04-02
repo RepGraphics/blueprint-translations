@@ -139,5 +139,35 @@
     "Memory usage is high": "内存使用率高",
     "CPU usage is high": "CPU 使用率高",
     "Disk usage is high": "磁盘使用率高",
-    "Upgrade": "升级"
+    "Upgrade": "升级",
+
+    "home": "首页",
+    "container": "容器",
+    "Rename": "重命名",
+    "Move": "移动",
+    "Permissions": "权限",
+    "Archive": "档案",
+    "Download": "下载",
+    "Delete": "删除",
+    "Copy": "复制",
+    "Databases cannot be created for this server.": "无法为此服务器创建数据库。",
+
+    "Restarted the server.": "已重启服务器。",
+    "Stopped the server.": "已停止服务器。",
+    "Started the server.": "已启动服务器。",
+    "Viewed the contents of": "查看内容",
+    "View Banned Players": "查看被禁玩家",
+    "Create File": "创建文件",
+    "Name": "名称",
+    "Upload": "上传",
+
+    "Enable Two-Step Verification": "启用双重验证",
+    "Help protect your account from unauthorized access. You'll be prompted for a verification code each time you sign in.": "帮助保护您的账户免受未授权访问。每次登录时，系统会提示您输入验证码。",
+    "Scan the QR code above using the two-step authentication app of your choice. Then, enter the 6-digit code generated into the field below.": "使用您选择的双重认证应用程序扫描上方的二维码，然后将生成的六位数字代码输入下面的字段。",
+    "Account Password": "账户密码",
+    "Enable": "启用",
+    "Disable": "禁用",
+    "Logged in": "已登录",
+    "auth:success": "认证成功",
+    "auth:failed": "认证失败"
 }

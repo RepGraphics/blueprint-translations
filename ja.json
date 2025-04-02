@@ -120,5 +120,35 @@
     "Memory usage is high": "メモリ使用率が高い",
     "CPU usage is high": "CPU使用率が高い",
     "Disk usage is high": "ディスク使用率が高い",
-    "Upgrade": "アップグレード"
+    "Upgrade": "アップグレード",
+
+    "home": "ホーム",
+    "container": "コンテナ",
+    "Rename": "名前を変更",
+    "Move": "移動",
+    "Permissions": "権限",
+    "Archive": "アーカイブ",
+    "Download": "ダウンロード",
+    "Delete": "削除",
+    "Copy": "コピー",
+    "Databases cannot be created for this server.": "このサーバーにはデータベースを作成できません。",
+
+    "Restarted the server.": "サーバーを再起動しました。",
+    "Stopped the server.": "サーバーを停止しました。",
+    "Started the server.": "サーバーを起動しました。",
+    "Viewed the contents of": "内容を表示しました：",
+    "View Banned Players": "禁止されたプレイヤーを表示",
+    "Create File": "ファイルを作成",
+    "Name": "名前",
+    "Upload": "アップロード",
+
+    "Enable Two-Step Verification": "二段階認証を有効化",
+    "Help protect your account from unauthorized access. You'll be prompted for a verification code each time you sign in.": "アカウントを不正アクセスから保護します。ログインするたびに確認コードの入力を求められます。",
+    "Scan the QR code above using the two-step authentication app of your choice. Then, enter the 6-digit code generated into the field below.": "お好みの二段階認証アプリで上記のQRコードをスキャンしてください。その後、生成された6桁のコードを下のフィールドに入力してください。",
+    "Account Password": "アカウントのパスワード",
+    "Enable": "有効にする",
+    "Disable": "無効にする",
+    "Logged in": "ログインしました",
+    "auth:success": "認証成功",
+    "auth:failed": "認証失敗"
 }

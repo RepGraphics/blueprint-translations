@@ -139,5 +139,35 @@
     "Memory usage is high": "L'uso della memoria è elevato",
     "CPU usage is high": "L'uso della CPU è elevato",
     "Disk usage is high": "L'uso del disco è elevato",
-    "Upgrade": "Aggiorna"
+    "Upgrade": "Aggiorna",
+
+    "home": "Home",
+    "container": "Contenitore",
+    "Rename": "Rinomina",
+    "Move": "Sposta",
+    "Permissions": "Autorizzazioni",
+    "Archive": "Archivia",
+    "Download": "Scarica",
+    "Delete": "Elimina",
+    "Copy": "Copia",
+    "Databases cannot be created for this server.": "Non è possibile creare database per questo server.",
+
+    "Restarted the server.": "Il server è stato riavviato.",
+    "Stopped the server.": "Il server è stato arrestato.",
+    "Started the server.": "Il server è stato avviato.",
+    "Viewed the contents of": "Ha visualizzato il contenuto di",
+    "View Banned Players": "Visualizza giocatori bannati",
+    "Create File": "Crea file",
+    "Name": "Nome",
+    "Upload": "Carica",
+
+    "Enable Two-Step Verification": "Abilita la verifica in due passaggi",
+    "Help protect your account from unauthorized access. You'll be prompted for a verification code each time you sign in.": "Aiuta a proteggere il tuo account da accessi non autorizzati. Ti verrà richiesto un codice di verifica ogni volta che accedi.",
+    "Scan the QR code above using the two-step authentication app of your choice. Then, enter the 6-digit code generated into the field below.": "Scansiona il codice QR sopra utilizzando l'app di autenticazione a due passaggi di tua scelta. Poi, inserisci il codice a 6 cifre generato nel campo sottostante.",
+    "Account Password": "Password dell'account",
+    "Enable": "Abilita",
+    "Disable": "Disabilita",
+    "Logged in": "Accesso effettuato",
+    "auth:success": "Autenticazione riuscita",
+    "auth:failed": "Autenticazione fallita"
 }
