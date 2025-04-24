@@ -1,3 +1,4 @@
+{
     "Dashboard": "Bảng điều khiển",
     "Store": "Cửa hàng",
     "Status": "Trạng thái",
@@ -177,3 +178,4 @@
     "Connections From": "Kết nối từ",
     "Where connections should be allowed from. Leave blank to allow connections from anywhere.": "Nơi cho phép kết nối từ. Để trống để cho phép kết nối từ mọi nơi.",
     "Create Database": "Tạo cơ sở dữ liệu"
+}
