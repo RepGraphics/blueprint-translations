@@ -1,11 +1,4 @@
 {
-        "welcome": "Welcome",
-        "dashboard": "Dashboard",
-        "store": "Store",
-        "status": "Status",
-        "discord": "Discord"
-}
-{
     "Dashboard": "Tableau de bord",
     "Store": "Boutique",
     "Status": "Statut",
