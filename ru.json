@@ -25,6 +25,7 @@
     "MiB": "МБ",
     "KiB": "КБ",
     "Bytes": "Байтов",
+    "Type a command...": "Ввести команду...",
 
     "Account Overview": "Обзор аккаунта",
     "Account": "Аккаунт",
@@ -275,4 +276,5 @@
     "activity": "активность",
     "Permissions that control a user's access to the server activity logs.": "Права, которые контролируют доступ пользователя к журналам активности сервера."
 }
+
 
