@@ -109,7 +109,7 @@
     "Notes": "Opombe",
     "Primary": "Primarno",
 
-    "Backups cannot be created for this server because the backup limit is set to 0.": "Varnostnih kopij ni mogoče ustvariti, ker je omejitev nastavljenja na 0.",
+    "Backups cannot be created for this server because the backup limit is set to 0.": "Varnostnih kopij ni mogoče ustvariti, ker je omejitev nastavljena na 0.",
     "Backup Limit": "Omejitev varnostnih kopij",
     "It looks like you don't have any subusers.": "Zdi se, da nimate poduporabnikov.",
     "New User": "Nov uporabnik",
